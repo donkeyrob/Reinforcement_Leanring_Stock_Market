@@ -2,4 +2,10 @@
 
 Check "stock.py" for codes.
 
-![Image of ggmap](https://github.com/donkeyrob/Statistics-with-R/blob/master/Carribo%20Coffee%20Shops/Rplot.png)
+
+## Buy points
+![Image of buy](https://github.com/donkeyrob/Reinforcement_Leanring_Stock_Market/blob/master/buy.png)
+
+
+## Sell points
+![Image of buy](https://github.com/donkeyrob/Reinforcement_Leanring_Stock_Market/blob/master/sell.png)
